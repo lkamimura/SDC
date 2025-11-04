@@ -1,57 +1,57 @@
-# Guía Completa de Sistemas de Control en Python
+# Complete Guide to Control Systems in Python
 
-Creado por el Ingeniero Lautaro Kamimura Varela para la catedra Sistemas de Control de la carrera Ingenieria Aeroespacial de la Universidad Tecnologica Nacional Facultad Regional Haedo, Buenos Aires, Argentina.
+Created by Engineer Lautaro Kamimura Varela for the Control Systems course of the Aerospace Engineering program at the National Technological University, Haedo Regional Faculty, Buenos Aires, Argentina.
 
-Este repositorio contiene una guía interactiva completa sobre sistemas de control, implementada en Jupyter Notebook. La guía cubre desde conceptos fundamentales hasta técnicas avanzadas de análisis y diseño de sistemas de control.
+This repository contains a complete interactive guide on control systems, implemented in Jupyter Notebook. The guide covers from fundamental concepts to advanced techniques in control systems analysis and design.
 
-## 🎯 Contenido
+## 🎯 Content
 
-1. **Modelado de Sistemas**
-   - Funciones de transferencia
-   - Representación de sistemas
-   - Respuesta a diferentes entradas
-   - Análisis de estabilidad básico
+1. **System Modeling**
+   - Transfer functions
+   - System representation
+   - Response to different inputs
+   - Basic stability analysis
 
-2. **Respuesta Temporal**
-   - Tiempo de establecimiento
-   - Sobrepico
-   - Tiempo de subida
-   - Error en estado estacionario
-   - Análisis de sistemas de segundo orden
-   - Factor de amortiguamiento
-   - Frecuencia natural no amortiguada
+2. **Time Response**
+   - Settling time
+   - Overshoot
+   - Rise time
+   - Steady-state error
+   - Second-order systems analysis
+   - Damping factor
+   - Natural undamped frequency
 
-3. **Curva de Raíces**
-   - Análisis de estabilidad
-   - Selección de ganancias
-   - Diseño de compensadores
-   - Reglas del lugar geométrico de las raíces
-   - Visualización de polos dominantes
+3. **Root Locus**
+   - Stability analysis
+   - Gain selection
+   - Compensator design
+   - Root locus rules
+   - Dominant poles visualization
 
-4. **Compensadores**
-   - Compensador de adelanto (Lead)
-   - Compensador de atraso (Lag)
-   - Compensador de atraso-adelanto (Lag-Lead)
-   - Análisis comparativo de respuestas
-   - Diagramas de Bode compensados
+4. **Compensators**
+   - Lead compensator
+   - Lag compensator
+   - Lag-Lead compensator
+   - Comparative response analysis
+   - Compensated Bode diagrams
 
-5. **Análisis en Frecuencia**
-   - Diagramas de Bode
-   - Diagrama de Nyquist
-   - Carta de Nichols
-   - Márgenes de ganancia y fase
-   - Análisis de estabilidad en frecuencia
+5. **Frequency Analysis**
+   - Bode diagrams
+   - Nyquist diagram
+   - Nichols chart
+   - Gain and phase margins
+   - Frequency stability analysis
 
-6. **Espacio de Estados**
-   - Representación en espacio de estados
-   - Sistemas MIMO
-   - Análisis de variables internas
-   - Controladores modernos
-   - Asignación de polos (Fórmula de Ackerman)
+6. **State Space**
+   - State space representation
+   - MIMO systems
+   - Internal variables analysis
+   - Modern controllers
+   - Pole placement (Ackerman's formula)
 
-## 🛠️ Requisitos
+## 🛠️ Requirements
 
-Las siguientes bibliotecas de Python son necesarias para ejecutar los notebooks:
+The following Python libraries are necessary to run the notebooks:
 
 ```python
 numpy
@@ -62,55 +62,51 @@ pandas
 sympy
 ```
 
-## 📚 Estructura del Repositorio
+## 📚 Repository Structure
 
-- `GuiaCompletaSistemasControl.ipynb`: Notebook principal con la guía completa
-- Ejemplos prácticos incluidos:
-  - Sistemas de primer y segundo orden
-  - Análisis de respuesta temporal
-  - Diseño de compensadores
-  - Análisis en frecuencia
-  - Sistema masa-resorte-amortiguador
-  - Péndulo invertido con control por realimentación de estados
+- `GuiaCompletaSistemasControl.ipynb`: Main notebook with the complete guide
+- Practical examples included:
+  - First and second-order systems
+  - Time response analysis
+  - Compensator design
+  - Frequency analysis
+  - Mass-spring-damper system
+  - Inverted pendulum with state feedback control
 
-## 🚀 Cómo Usar
+## 🚀 How to Use
 
-1. Clone este repositorio
-2. Instale las dependencias necesarias
-3. Abra el notebook `GuiaCompletaSistemasControl.ipynb` en Jupyter
-4. Execute las celdas secuencialmente para seguir la guía
+1. Clone this repository
+2. Install the necessary dependencies
+3. Open the `GuiaCompletaSistemasControl.ipynb` notebook in Jupyter
+4. Execute the cells sequentially to follow the guide
 
-## 📊 Características
+## 📊 Features
 
-- Visualizaciones interactivas
-- Ejemplos prácticos implementados
-- Análisis teórico detallado
-- Código comentado y explicado
-- Combinación de teoría y práctica
+- Interactive visualizations
+- Implemented practical examples
+- Detailed theoretical analysis
+- Commented and explained code
+- Combination of theory and practice
 
-## 🎓 Aplicaciones Educativas
+## 🎓 Educational Applications
 
-Esta guía es ideal para:
-- Estudiantes de ingeniería de control
-- Profesionales que buscan refrescar conceptos
-- Profesores que necesitan material didáctico
-- Investigadores que requieren referencia rápida
+This guide is ideal for:
+- Control engineering students
+- Professionals looking to refresh concepts
+- Teachers who need didactic material
+- Researchers requiring quick reference
 
-## 🤝 Contribuciones
+## 🤝 Contributions
 
-Las contribuciones son bienvenidas. Si desea mejorar esta guía:
-1. Haga un Fork del repositorio
-2. Cree una nueva rama para sus cambios
-3. Envíe un Pull Request con sus mejoras
+Contributions are welcome. If you want to improve this guide:
+1. Fork the repository
+2. Create a new branch for your changes
+3. Submit a Pull Request with your improvements
 
-## 📝 Licencia
+## 📝 License
 
-Este proyecto está disponible como código abierto bajo la licencia MIT.
+This project is available as open source under the MIT license.
 
-## ✨ Agradecimientos
+## ✨ Acknowledgments
 
-
-Desarrollado como material educativo para el curso de Sistemas de Control.
-
-
-
+Developed as educational material for the Control Systems course.
