@@ -1,6 +1,6 @@
 # Guía Completa de Sistemas de Control
 
-Creado por Lautaro Kamimura Varela para la catedra Sistemas de Control de la carrera Ingenieria Aeroespacial de la Universidad Tecnologica Nacional Facultad Regional Haedo, Buenos Aires, Argentina.
+Creado por el Ingeniero Lautaro Kamimura Varela para la catedra Sistemas de Control de la carrera Ingenieria Aeroespacial de la Universidad Tecnologica Nacional Facultad Regional Haedo, Buenos Aires, Argentina.
 Este repositorio contiene una guía interactiva completa sobre sistemas de control, implementada en Jupyter Notebook. La guía cubre desde conceptos fundamentales hasta técnicas avanzadas de análisis y diseño de sistemas de control.
 
 ## 🎯 Contenido
@@ -110,3 +110,4 @@ Este proyecto está disponible como código abierto bajo la licencia MIT.
 
 
 Desarrollado como material educativo para el curso de Sistemas de Control.
+
