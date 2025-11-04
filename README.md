@@ -1,4 +1,4 @@
-# Guía Completa de Sistemas de Control
+# Guía Completa de Sistemas de Control en Python
 
 Creado por el Ingeniero Lautaro Kamimura Varela para la catedra Sistemas de Control de la carrera Ingenieria Aeroespacial de la Universidad Tecnologica Nacional Facultad Regional Haedo, Buenos Aires, Argentina.
 
@@ -111,5 +111,6 @@ Este proyecto está disponible como código abierto bajo la licencia MIT.
 
 
 Desarrollado como material educativo para el curso de Sistemas de Control.
+
 
 
